@@ -1,0 +1,15 @@
+Task: Build a Dashboard Application
+
+    Description: Develop a dashboard application using Next.js to display various metrics and data visualizations.
+    Requirements:
+        Use Next.js for server-side rendering and routing.
+        Implement authentication using JWT tokens or any preferred authentication method.
+        Fetch data from an API (can be mock data initially).
+        Display different metrics and visualizations on the dashboard, such as charts (using libraries like D3.js or Chart.js), tables, and cards.
+        Ensure responsiveness for different screen sizes.
+        Implement client-side routing to navigate between different sections of the dashboard.
+        Write clean and maintainable code with proper error handling and validation.
+    Bonus:
+        
+        Add user settings to customize the dashboard layout or theme.
+        Optimize performance by lazy-loading components or implementing server-side caching strategies.
