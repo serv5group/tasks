@@ -1,0 +1,21 @@
+Flutter Task: Build a Simple To-Do App
+
+Description:
+Create a simple To-Do app using Flutter. Users should be able to add tasks, mark tasks as complete, and delete tasks.
+
+Requirements:
+
+    Use Flutter to build the app.
+    Create a simple UI that allows users to:
+        Add new tasks.
+        View a list of tasks.
+        Mark tasks as complete or incomplete.
+        Delete tasks from the list.
+    Store tasks locally (you can use a package like shared_preferences or a simple JSON file).
+
+Bonus:
+
+    Add categories for tasks (e.g., Work, Personal).
+    Implement task filtering (e.g., view only completed, incomplete, or all tasks).
+    Add basic animations for task completion and deletion.
+

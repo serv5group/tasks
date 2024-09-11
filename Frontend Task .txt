@@ -1,0 +1,19 @@
+Frontend Task: Implement a Demo Blog Website
+Description:
+Create a simple blog website using Next.js. Users should be able to view a list of blog posts on the homepage and click on a post to view its details.
+
+Requirements:
+
+    Use Next.js for server-side rendering and routing.
+    Fetch blog post data from a mock API or a JSON file.
+    Display a list of blog posts on the homepage.
+    Implement a separate page to display the details of each blog post when clicked.
+    Include basic styling to make the website visually appealing.
+
+Bonus:
+
+    Add pagination to the homepage to handle a large number of blog posts efficiently.
+    Implement search functionality to allow users to search for specific blog posts.
+    Use CSS frameworks like Tailwind CSS for styling.
+
+

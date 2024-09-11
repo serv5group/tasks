@@ -1,0 +1,19 @@
+Backend Task: Dashboard with CRUD Operations
+
+Description:
+Using any kind of dashboard, implement the following functionality:
+
+    Categories:
+        Create Categories with fields: id, title, and details.
+    Products:
+        Create Products with fields: id, title, brand, image, details, and price.
+        Implement complete CRUD operations for products.
+    Search Functionality:
+        Add a search input for products. Users should be able to search by name, brand, price, or a combination of these. Support word-based search as well.
+    Product Endpoint:
+        Create an API endpoint to return product data.
+    Authentication:
+        Implement two types of authentication: one for Admins and another for Users.
+        Use different controllers, models, and guards for each type of authentication.
+
+Bonus: 6. Implement OTP Verification functionality (without linking to an external gateway).
